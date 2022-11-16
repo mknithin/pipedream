@@ -1,5 +1,7 @@
 import { defineApp } from "@pipedream/types";
 
+// new change is added
+
 export default defineApp({
   type: "app",
   app: "d7_networks",
